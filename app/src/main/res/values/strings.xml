@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Most Transfer</string>
+    <string name="first_name">Mohammedei</string>
+    <string name="last_name">Miron</string>
+
+    <string name="transfer_date">Transfer date:</string>
+    <string name="date_value">29.09.2022</string>
+
+    <string name="transfer_currency">Transfer currency:</string>
+    <string name="currency_value">700 000 EUR</string>
+
+    <string name="from">from:</string>
+    <string name="club_names">Hapoel Haifa F.C.</string>
+    <string name="to">to:</string>
+    <string name="to_club">chelsea</string>
+
+    <string name="transfer">Transfer</string>
+    <string name="image_view">image_view</string>
+
+    <string name="most">MOST</string>
+    <string name="transfer2">TRANSFER</string>
+</resources>
